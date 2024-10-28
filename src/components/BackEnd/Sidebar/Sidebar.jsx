@@ -43,7 +43,7 @@ export default class Sidebar extends Component {
                             <img src={logo} alt="logo_image"/>
                         </div>
                     </a>*/}
-                    <a href="#" className="simple-text logo-normal">Event Management</a>
+                    <a href="#" className="simple-text logo-normal">EventSpotLite</a>
                 </div>
                 <div className="sidebar-wrapper">
                     <ul className="nav">

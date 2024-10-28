@@ -7,7 +7,7 @@ export default class Footer extends Component {
                 <div className="container-fluid">
                     <p className="copyright pull-right">
                         &copy; {new Date().getFullYear()}{" "}
-                        <a href="#">Event Management</a>
+                        <a href="#">EventSpotLite</a>
                     </p>
                 </div>
             </footer>

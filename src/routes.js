@@ -29,20 +29,20 @@ const adminRoutes = [
         layout: "/admin"
     }, {
         path: "/events",
-        name: "Event Management",
+        name: "EventSpotLite",
         icon: "pe-7s-news-paper",
         component: EventList,
         layout: "/admin"
     }, {
         path: "/event/create",
-        name: "Event Management",
+        name: "EventSpotLite",
         icon: "",
         component: EvenCreate,
         layout: "/admin",
         invisible: true,
     }, {
         path: "/event/edit",
-        name: "Event Management",
+        name: "EventSpotLite",
         icon: "",
         component: EventEdit,
         layout: "/admin",
